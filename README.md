@@ -9,12 +9,9 @@
 * Sass Lang
 
 
-
 ## Reflection
-
-The objectives of the project included using some new concepts learned about Sass.
-
-I wanted to build a simple landing page with HTML and Sass.
+> The objectives of the project included using some new concepts learned about Sass.
+> I wanted to build a simple landing page with HTML and Sass.
 
 
 ### Access the [Demo]()
